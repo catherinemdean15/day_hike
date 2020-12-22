@@ -21,6 +21,7 @@ group :development, :test do
   gem 'shoulda-matchers'
   gem 'pry'
   gem 'launchy'
+  gem 'factory_bot_rails'
   gem 'simplecov', require: false, group: :test
 end
 
